@@ -4,6 +4,8 @@ Ever wished you could actually put things in the trash and recycling bins in the
 
 Replaces the single BoxCollider on trash bins with 4 BoxColliders.
 
+Created using the BepInEx Template for PEAK (https://github.com/PEAKModding/BepInExTemplate)
+
 ## Installation
 
 Every scout needs to install this mod for it to work properly 
